@@ -9,7 +9,7 @@ Proposer des outils **simples**, **gratuits** et **accessibles** de tous pour vo
 ## Projets
 
 - **Corundum maintenance :** un script facilitant la maintenance d'un poste de travail sous Microsoft Windows
-- **Quick :** un site permettant d'installer toutes vos applications macOS en une commande
+- **Corundum Quick :** un site permettant d'installer toutes vos applications macOS en une commande
 
 ## Membres
 
