@@ -18,7 +18,3 @@ Vous retrouverez une liste complète de nos membres en cliquant [ici](https://gi
 ## Réseaux sociaux
 
 - [Serveur Discord](https://discord.gg/jvK9p33FMW)
-
-## Licence
-
-Vous retrouverez l'entièreté de la licence en cliquant [ici](LICENSE).
