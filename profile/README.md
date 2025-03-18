@@ -1,6 +1,8 @@
 # Corundum
 
-**Corundum** est une organisation proposant, prochainement, aux utilisateurs divers produits.
+## À propos
+
+**Corundum** est une organisation proposant aux utilisateurs divers produits.
 
 ## Objectif
 
