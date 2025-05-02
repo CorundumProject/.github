@@ -19,4 +19,6 @@ Vous retrouverez une liste complète de nos membres en cliquant [ici](https://gi
 
 ## Réseaux sociaux
 
-- [Serveur Discord](https://discord.gg/jvK9p33FMW)
+- [Serveur Discord](https://discord.gg/2zX67vqh6b)
+- [BlueSky](https://bsky.app/profile/corundumproject.bsky.social)
+
